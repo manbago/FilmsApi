@@ -3087,3 +3087,11 @@ node_modules/express-validator/src/middlewares/schema.d.ts
 node_modules/express-validator/src/middlewares/schema.js
 node_modules/express-validator/src/middlewares/validation-chain-builders.d.ts
 node_modules/express-validator/src/middlewares/validation-chain-builders.js
+models/films.js
+node_modules/jwt-simple/History.md
+node_modules/jwt-simple/index.d.ts
+node_modules/jwt-simple/index.js
+node_modules/jwt-simple/LICENSE
+node_modules/jwt-simple/package.json
+node_modules/jwt-simple/README.md
+node_modules/jwt-simple/lib/jwt.js
